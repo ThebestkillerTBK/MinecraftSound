@@ -1,0 +1,9 @@
+{
+  "name": "minecraftsound",
+  "displayName": "Minecraft Sound",
+  "description": "Adds Minecraft sound into the game.",
+  "author": "TBK",
+  "version": "1.0",
+  "minGameVersion": 105,
+  "hidden": true
+}
